@@ -1,6 +1,5 @@
-<span>
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pankaj Koirala</h2>
-</span>
+
+![Hey there! I'm Pankaj Koirala](https://img.shields.io/badge/Hi-%23E34F26.svg?style=for-the-badge&logo=handshake&logoColor=white)
 
 ## 💫 About Me:
 
