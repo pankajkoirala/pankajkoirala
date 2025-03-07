@@ -24,7 +24,6 @@
 <a href="mailto:pankaj.developer.77@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-</div>
 
 ## 🛠  Tech Stack Languages, Tools, and Skills
 
@@ -56,7 +55,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
