@@ -1,4 +1,15 @@
-### Socials
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pankaj Koirala</h2>
+
+# 💫 About Me:
+
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently Post Graduate In Computer Application at the Purvanchal University.\
+✍️ &nbsp;In my free time, I pursue coding and hiking as hobbies/side hustles.\
+✉️ &nbsp;You can send me an email at pankaj.developer.77@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.pankajkoirala.com.np) for more details about me. I'm open to feedback and suggestions!
+
+## 🌐 Socials:
 
 <div align="center">
 <a href="https://pankajkoirala.com.np/">
@@ -22,12 +33,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
-
 
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
 <img src="https://img.shields.io/badge/react%20testing%20library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="testinglibrary" />
@@ -46,3 +57,11 @@
 
 </div>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/pankajkoirala">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pankajkoirala&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pankajkoirala&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
