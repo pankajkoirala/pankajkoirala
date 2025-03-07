@@ -1,9 +1,7 @@
+
 <span>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='30' align="left"/><h2>Hey there! I'm Pankaj Koirala</h2>
 </span>
-
-## 💫 About Me:
-
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently Post Graduate In Computer Application at the Purvanchal University.\
